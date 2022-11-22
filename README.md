@@ -1,0 +1,1 @@
+[![JoeCrash's GitHub stats](https://github-readme-stats.vercel.app/api?username=joecrash)](https://github.com/joecrash/github-readme-stats)
