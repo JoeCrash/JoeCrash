@@ -8,10 +8,10 @@ Full Stack Engineer with over 15 years of development experience, wearing tons o
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [joeycrash135@gmail.com](mailto:joeycrash135@gmail.com)
-* 🚀  I'm currently working on [Comps Inc.](http://compsusa.com)
+* 🚀  I've recently worked on [Comps Inc.](http://compsusa.com)
 * 🧠  I'm learning Next.js, Deno.js, Python, OpenCV
 * 🤝  I'm open to collaborating on anything challenging with a purpose - Sockets, IoT, robotics, GIS, WebGL would be a bonus.
-* ⚡  I'm making a robot from scratch.
+* ⚡  I'm developing robots for fun/learning/inspiring
 
 ### Skills
 
