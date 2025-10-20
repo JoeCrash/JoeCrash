@@ -4,14 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Full Stack Engineer with over 15 years of development experience, wearing tons of hats along the way. Author of the Star Trek Fleet Command map (stfcpro.com)
+Full Stack Engineer with over 20 years of development experience, wearing tons of hats along the way. 
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [joeycrash135@gmail.com](mailto:joeycrash135@gmail.com)
-* 🚀  I've recently worked on [Comps Inc.](https://compsusa.com)
-* 🧠  I'm learning Next.js, Deno.js, Python, OpenCV
+* 🚀  I've recently worked on [Curious Joey Stories](https://curiousjoey.com)
+* 🧠  I'm practicing my front end with gsap, Adobe CC
 * 🤝  I'm open to collaborating on anything challenging with a purpose - Sockets, IoT, robotics, GIS, WebGL would be a bonus.
-* ⚡  I'm developing robots for fun/learning/inspiring
 
 ### Skills
 
