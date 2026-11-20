@@ -7,9 +7,9 @@ Full Stack Developer
 Full Stack Engineer with over 20 years of development experience, wearing tons of hats along the way. 
 
 * 🌍  I'm based in New York
-* ✉️  You can contact me at [joeycrash135@gmail.com](mailto:joeycrash135@gmail.com)
-* 🚀  I've recently worked on [Curious Joey Stories](https://curiousjoey.com)
-* 🧠  I'm practicing my front end with gsap, Adobe CC
+* ✉️  You can contact me at (redacted, I'm busy)
+* 🚀  I've recently worked on [Curious Joey Stories](https://curiousjoey.com) & [Tiny Titan Engine](https://tinytitanengine.com)
+* 🧠  I'm practicing agentic workflows, distributed edge compute, AI hardware optimizations.
 * 🤝  I'm open to collaborating on anything challenging with a purpose - Sockets, IoT, robotics, GIS, WebGL would be a bonus.
 
 ### Skills
@@ -42,7 +42,7 @@ Full Stack Engineer with over 20 years of development experience, wearing tons o
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/JoeCrash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/juan-medina-full-stack-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/4539309/joecrash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/JoeCrash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/juan-medina-tiny-titan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/4539309/joecrash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
